@@ -37,7 +37,7 @@ An AI-powered web application for predicting a wide range of diseases based on s
 ## 🎬 Demo
 
 **[Video Demo](#)**  
-*(Add your YouTube or video demo link here)*
+*[Add your YouTube or video demo link here](https://youtu.be/rHJJRbHYMRQ?si=gbmUsCid3JMFUq1c]*
 
 ---
 
@@ -83,7 +83,7 @@ Place these files in the `model/` directory:
 ```bash
 python app.py
 ```
-Open [http://localhost:5000](https://youtu.be/rHJJRbHYMRQ?si=gbmUsCid3JMFUq1c) in your browser.
+Open [http://localhost:5000] in your browser.
 
 ---
 
