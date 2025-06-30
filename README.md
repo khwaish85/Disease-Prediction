@@ -36,8 +36,8 @@ An AI-powered web application for predicting a wide range of diseases based on s
 
 ## 🎬 Demo
 
-**[Video Demo](#)**  
-*[https://youtu.be/rHJJRbHYMRQ?si=gbmUsCid3JMFUq1c]*
+**[Video Demo](https://youtu.be/rHJJRbHYMRQ?si=gbmUsCid3JMFUq1c)**  
+*Watch the demo on YouTube!*
 
 ---
 
