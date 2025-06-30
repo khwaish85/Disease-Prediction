@@ -83,7 +83,7 @@ Place these files in the `model/` directory:
 ```bash
 python app.py
 ```
-Open [http://localhost:5000](http://localhost:5000) in your browser.
+Open [http://localhost:5000](https://youtu.be/rHJJRbHYMRQ?si=gbmUsCid3JMFUq1c) in your browser.
 
 ---
 
