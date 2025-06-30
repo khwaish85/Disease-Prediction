@@ -37,7 +37,7 @@ An AI-powered web application for predicting a wide range of diseases based on s
 ## 🎬 Demo
 
 **[Video Demo](#)**  
-*[Add your YouTube or video demo link here](https://youtu.be/rHJJRbHYMRQ?si=gbmUsCid3JMFUq1c]*
+*[https://youtu.be/rHJJRbHYMRQ?si=gbmUsCid3JMFUq1c]*
 
 ---
 
@@ -128,7 +128,6 @@ disease-prediction/
 ## 🧑‍🎓 Credits & References
 
 - Inspired by open-source projects and datasets from [UCI Machine Learning Repository](https://archive.ics.uci.edu/), Kaggle, and [many others](#).
-- Thanks to the contributors, open-source communities, and [LinkedIn Profile](https://www.linkedin.com/in/anil-l-b023631b6/) for reference.
 - See [mapping.json](model/mapping.json) for all supported diseases.
 
 ---
